@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align='center'>
+  <table>
+    <tbody>
+      <td align='center'>
+        <img width='2000' height='0'><br>
+        <sub><h1>zayphi</h1></sub><br>
+        <img width='2000' height='0'>
+      </td>
+    </tbody>
+  </table>
+</p>
 
-<!--
-**zayphi/zayphi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  <a href='https://modrinth.com/user/zayphi'>
+    <img alt='modrinth' height='56' src='https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg'>
+  </a>
+  
+  <a href='https://mastodon.social/@zayphi'>
+  <img alt='mastodon' height='56' src='https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/mastodon-singular_vector.svg'>
+  </a>
+</p>
